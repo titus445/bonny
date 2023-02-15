@@ -1,0 +1,67 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden ;
+    background: forestgreen;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 20px;
+    margin: 10px;
+    color: darkred;
+}
+li a:hover{
+    background: chartreuse;
+}
+th,td{
+    border: 2px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    font-family: KacstBook;
+    background-color: silver;
+}
+table{
+    border-collapse: collapse;width: 100%;
+}
+h1{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+}
+h3{
+    font-family: Mallanna;
+}
+.fruits{
+    border: 2px solid coral;
+    background: blueviolet;
+    color: silver;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border: 2px solid crimson;
+    background: greenyellow;
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.FRUITS{
+    border: 2px solid deeppink;
+    background: lightblue;
+    color: lightseagreen;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+labels{
+    padding: 20px;
+    background-color: black;
+}
+#school{
+    border: 3px dotted black;
+}
